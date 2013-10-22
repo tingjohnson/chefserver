@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 f9d4b0cd65828c25e2b816cae8329c48f2c2c25b root <root@chefserver.ctitv.com.tw> 1382321523 -0400	clone: from git://github.com/opscode/chef-repo.git
+f9d4b0cd65828c25e2b816cae8329c48f2c2c25b 156f1d7495bfb4e3f79e4abd0359c21fa0c2948e root <root@chefserver.ctitv.com.tw> 1382321706 -0400	merge chef-vendor-user: Fast-forward
+156f1d7495bfb4e3f79e4abd0359c21fa0c2948e e3f4b3be5f1abad4b12744dcd52d57522e93f82c root <root@chefserver.ctitv.com.tw> 1382349024 -0400	merge chef-vendor-mysql: Fast-forward
+e3f4b3be5f1abad4b12744dcd52d57522e93f82c ff4a323e5a395eba3550e55183fdd87022774540 root <root@chefserver.ctitv.com.tw> 1382349026 -0400	merge chef-vendor-build-essential: Fast-forward
+ff4a323e5a395eba3550e55183fdd87022774540 b9718e369f18e702ad7314fdab7b2689da51fd7b root <root@chefserver.ctitv.com.tw> 1382349028 -0400	merge chef-vendor-openssl: Fast-forward
+b9718e369f18e702ad7314fdab7b2689da51fd7b 0b5e4bb7caf7fc529578617ddf21c58dc846d041 root <root@chefserver.ctitv.com.tw> 1382349037 -0400	merge chef-vendor-apache: Fast-forward
+0b5e4bb7caf7fc529578617ddf21c58dc846d041 b7df6898df1b9e7bed40b445ba74fa47f7148429 root <root@chefserver.ctitv.com.tw> 1382349040 -0400	merge chef-vendor-apache2: Fast-forward
+b7df6898df1b9e7bed40b445ba74fa47f7148429 040d0a42800417423fd21916dee200e7e3dfa880 root <root@chefserver.ctitv.com.tw> 1382349047 -0400	merge chef-vendor-php: Fast-forward
+040d0a42800417423fd21916dee200e7e3dfa880 bd8b94f560ae9ba5e199f8a35c9d76e2d59d1242 root <root@chefserver.ctitv.com.tw> 1382349048 -0400	merge chef-vendor-xml: Fast-forward

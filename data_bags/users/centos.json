@@ -1,0 +1,9 @@
+{ 
+"id"       : "root",
+    "gid": "root",
+    "comment"  : "root",
+    "home"     : "/root",
+    "create_user_group":"false",
+    "ssh_keygen": "false",
+    "ssh_keys" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQASSAABAQDU+3VXGUANuuLVp3jeM3nQi23Odgz4mhiFI4PfDdlO3DtefSduikKC++PhvG2sdUxb+c7nxq+fq2GD8AEWltuUn3fYl0zdujr4zBbid/Blylp65PlT5ok5QwLuSwS8RtfQkyipocbAe3Jbtab13YLq/iUBlAkgD/GxfyZOaqs4tPdcn7DKfEuq81NjoKDkTV9GOUUpKi8ves4in/sB7eyFlrpm0+7mpwNh3cXNBRL8b3theIG3BLK7zbrUwTT6vcNETXt/wJAoO7cKQecFudhpqr8N/S?pSbflcRrw4GTjvkCZ58PylOXY1cUOfeeSvcxtNqsGPq8ZgtxRATlCBIAN simonsu@SimonAIR.local"
+}
